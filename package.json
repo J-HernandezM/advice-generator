@@ -1,0 +1,28 @@
+{
+  "name": "advices",
+  "version": "1.0.0",
+  "description": "Componente generador de consejos aleatorios usando una API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-HernandezM/advice-generator.git"
+  },
+  "keywords": [
+    "advices",
+    "generator",
+    "API"
+  ],
+  "author": "J-HernandezM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-HernandezM/advice-generator/issues"
+  },
+  "homepage": "https://github.com/J-HernandezM/advice-generator#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
