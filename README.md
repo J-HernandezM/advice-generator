@@ -18,7 +18,7 @@ Esta es mi propuesta de solucion al reto [Advice generator app challenge on Fron
 
 Generador de consejos aleatorios haciendo click en un boton, trayendolos desde una [API](https://api.adviceslip.com/#object-slip)
 
-### The challenge
+## El desafio
 
 El usuario deberia poder
 
