@@ -2,7 +2,7 @@
 
 Esta es mi propuesta de solucion al reto [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). 
 
-## Table of contents
+## Tabla de contenidos
 
 - [Descripcion](#descripcion)
   - [El desafio](#el-desafio)
@@ -11,14 +11,14 @@ Esta es mi propuesta de solucion al reto [Advice generator app challenge on Fron
 - [Mi proceso](#mi-proceso)
   - [Hecho con](#hecho-con)
   - [Lo aprendido](#lo-que-aprendi)
-  - [Aprendiendo](#aprendiendo)
+  - [En desarrollo](#en-desarrollo)
 - [Autor](#autor)
 
 ## Descripcion
 
 Generador de consejos aleatorios haciendo click en un boton, trayendolos desde una [API](https://api.adviceslip.com/#object-slip)
 
-### The challenge
+## El desafio
 
 El usuario deberia poder
 
