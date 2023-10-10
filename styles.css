@@ -9,10 +9,10 @@
     --dark-grayish-blue: hsl(217, 19%, 24%);
     --dark-blue: hsl(218, 23%, 16%);
 
-    --lg:28rem;
-    --sm:14rem;
+    --lg:2.8rem;
+    --sm:1.4rem;
 
-    font-size: 6.25%;
+    font-size: 62.5%;
 }
 
 *{
@@ -40,12 +40,12 @@ main{
     align-items: center;
     flex-direction: column;
 
-    min-width: 355rem;
-    max-width: 490rem;
+    min-width: 35.5rem;
+    max-width: 49.0rem;
     width: 90%;
     min-height: fit-content;
-    padding: 24rem;
-    border-radius: 12rem;
+    padding: 2.4rem;
+    border-radius: 1.2rem;
 
     background-color: var(--dark-grayish-blue);
 }
@@ -54,13 +54,13 @@ main{
     display: grid;
     place-items: center;
     position: absolute;
-    bottom: -35rem;
+    bottom: -3.5rem;
 
-    height: 70rem;
-    width: 70rem;
+    height: 7.0rem;
+    width: 7.0rem;
     background-color:var(--neon-green);
 
-    border-radius: 35rem;
+    border-radius: 3.5rem;
     border: none;
 }
 .btn:hover{
@@ -68,22 +68,22 @@ main{
     cursor: pointer;
 }
 .pattern{
-    margin-bottom: 50rem;
+    margin-bottom: 5.0rem;
 }
 .pattern-desktop{
     display: none;
 }
 /* tipografia */
 .title{
-    margin-bottom: 24rem;
+    margin-bottom: 2.4rem;
     
     font-weight: 500;
     color: var(--neon-green);
     font-size: var(--sm);
-    letter-spacing: 5rem;
+    letter-spacing: .5rem;
 }
 .advice{
-    margin-bottom: 20rem;
+    margin-bottom: 2.0rem;
 
     font-weight: 800;
     color: var(--light-cyan);
@@ -96,8 +96,8 @@ main{
 @media (min-width:1060px) {
     .adviceBox{
         width: 40%;
-        min-width: 470rem;
-        max-width:490rem;
+        min-width: 47.0rem;
+        max-width:49.0rem;
     }
     
     
